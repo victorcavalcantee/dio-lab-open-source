@@ -87,6 +87,8 @@ Aprender o básico sobre contribuição no GitHub.
 9. Envie as alterações para o seu repositório remoto `git push origin feat/community/seunomedeusuario`; 
 10. Crie um **Pull Request**.
 
+Caso ainda não tenha entendido, clique [aqui](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/8e9e1f35-5571-40c4-863f-2279ba388aeb) e faça como eu, repita o processo até aprender.😉
+
 ### Instructions (EN/US)
 1. **Fork** the repository;
 2. Clone locally: `git clone https://github.com/SEUUSERNAME/dio-lab-open-source.git`;
@@ -102,6 +104,8 @@ Aprender o básico sobre contribuição no GitHub.
 8. Create a commit and add the message indicating the addition of your profile `git commit -m"feat: add yourusername profile"`;
 9. Push changes to your remote repository `git push origin feat/community/yourusername`; 
 10. Create a **Pull Request**.
+
+If you still don't understand, click [here](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/8e9e1f35-5571-40c4-863f-2279ba388aeb) and do like me, repeat the process until you learn.😉
 
 ### Utilitários
 
